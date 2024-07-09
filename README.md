@@ -1,6 +1,8 @@
 # TanukiLoader
  Mod Loader For Tanuki Sunset
 
+this is based off of the **[sheltered mod manager](https://github.com/benjaminfoo/shelteredmodmanager)**
+
 # How to use
 
 #### Unstriping the game
