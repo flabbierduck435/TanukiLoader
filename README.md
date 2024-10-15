@@ -14,7 +14,7 @@ tools needed
 
 **[unity 2018.4.13](https://unity.com/releases/editor/whats-new/2018.4.13)**
 
-**[Steamworks.NET](https://unity.com/releases/editor/whats-new/2018.4.13)**
+**[Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET/releases/download/14.0.0/Steamworks.NET_14.0.0.unitypackage)**
 
 1. open AssetRipper and open the Tanuki sunset Data folder
 
